@@ -1,0 +1,13 @@
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.exe
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.deps.json
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.runtimeconfig.json
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.runtimeconfig.dev.json
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.dll
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\bin\Debug\netcoreapp3.1\HundredDoors.pdb
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.csprojAssemblyReference.cache
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.AssemblyInfoInputs.cache
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.AssemblyInfo.cs
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.csproj.CoreCompileInputs.cache
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.dll
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.pdb
+C:\Users\Nihat\source\repos\rosetta\HundredDoors\HundredDoors\obj\Debug\netcoreapp3.1\HundredDoors.genruntimeconfig.cache
