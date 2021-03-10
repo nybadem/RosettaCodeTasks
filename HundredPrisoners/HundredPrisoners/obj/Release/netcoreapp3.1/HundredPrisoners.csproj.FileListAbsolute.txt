@@ -1,0 +1,13 @@
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.exe
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.deps.json
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.runtimeconfig.json
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.runtimeconfig.dev.json
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.dll
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\bin\Release\netcoreapp3.1\HundredPrisoners.pdb
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.AssemblyInfoInputs.cache
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.AssemblyInfo.cs
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.csproj.CoreCompileInputs.cache
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.dll
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.pdb
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.genruntimeconfig.cache
+C:\Users\Nihat\source\repos\rosetta\HundredPrisoners\HundredPrisoners\obj\Release\netcoreapp3.1\HundredPrisoners.csprojAssemblyReference.cache
